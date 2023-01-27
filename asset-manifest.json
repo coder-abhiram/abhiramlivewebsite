@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abhiramlivewebsite/static/css/main.5222f93c.css",
+    "main.js": "/abhiramlivewebsite/static/js/main.0b5d2a8d.js",
+    "static/js/787.f63e59e4.chunk.js": "/abhiramlivewebsite/static/js/787.f63e59e4.chunk.js",
+    "index.html": "/abhiramlivewebsite/index.html",
+    "main.5222f93c.css.map": "/abhiramlivewebsite/static/css/main.5222f93c.css.map",
+    "main.0b5d2a8d.js.map": "/abhiramlivewebsite/static/js/main.0b5d2a8d.js.map",
+    "787.f63e59e4.chunk.js.map": "/abhiramlivewebsite/static/js/787.f63e59e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5222f93c.css",
+    "static/js/main.0b5d2a8d.js"
+  ]
+}
